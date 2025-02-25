@@ -32,3 +32,6 @@ if __name__ == "__main__":
     Checking module search paths:	import sys; print(sys.path)
     Reloading a module	        :  importlib.reload(module_name)
 '''
+
+# ====================Telusko Learning==========================
+print(__name__)
