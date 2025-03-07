@@ -30,4 +30,4 @@ c1 = Computer()
 c2 = Computer()
 
 if c1.compare(c2):
-    print("They are smme")
+    print("They are same")
